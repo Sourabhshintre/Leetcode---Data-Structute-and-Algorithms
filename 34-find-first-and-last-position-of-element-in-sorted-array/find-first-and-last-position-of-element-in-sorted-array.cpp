@@ -47,7 +47,7 @@ int lastOccurrence(vector<int> arr, int n, int k) {
 }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int>ans;
+    vector<int>ans;
     int n = nums.size();
     int first = firstOccurrence(nums, n, target);
     if (first == -1) return { -1, -1};
