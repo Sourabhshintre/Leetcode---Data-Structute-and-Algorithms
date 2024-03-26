@@ -15,7 +15,7 @@ public:
         // return cnt;
         // return v;
 
-
+// ---------------------------------------------------------
         int k=0;
         for(int i=0;i<nums.size();i++)
         {
@@ -30,4 +30,21 @@ public:
         return k;
         
     }
+
+// ---------------------------------------------------------------
+
+
+    // std::unordered_map<int, int> counts;
+    //     int length = nums.size();
+        
+    //     // Count occurrences of each element
+    //     for (int num : nums) {
+    //         counts[num]++;
+    //     }
+        
+    //     // Remove elements equal to val
+    //     length -= counts[val];
+        
+    //     return length;
+    // }
 };
