@@ -1,35 +1,36 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+    int n = nums.size();
+    if (n == 0) return -1; 
+    if (n == 1) return nums[0];
 
-        vector<int>v1;
-        map<int,int> m;
-        int ele=nums[0];
-        
-
-        for(int i=0;i<nums.size();i++)
-        {
-            m[nums[i]]++;
-            
+    int count = 0, candidate = nums[0];
+    for (int num : nums) {
+        if (count == 0) {
+            candidate = num;
+            count = 1;
+        } else {
+            if (candidate == num) {
+                count++;
+            } else {
+                count--;
+            }
         }
+    }
 
-        int large=m[nums[0]];
-
-        for(int i=0;i<nums.size();i++)
-        {
-           if(large<m[nums[i]])
-           {
-                large=m[nums[i]];
-                ele=nums[i];   
-           }
-            
+    count = 0;
+    for (int num : nums) {
+        if (num == candidate) {
+            count++;
         }
+    }
 
+    if (count > n / 2) {
+        return candidate;
+    }
 
+    return -1;
 
-        return ele;
-
-
-        
     }
 };
