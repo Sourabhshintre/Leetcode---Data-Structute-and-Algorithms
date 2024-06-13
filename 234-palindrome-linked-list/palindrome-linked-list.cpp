@@ -21,17 +21,12 @@ public:
         numberStr += to_string(current->val);
         current = current->next;
     }
-    int number;
-    int temp=number;
+
     string reversedStr = numberStr;
     reverse(reversedStr.begin(), reversedStr.end());
         
-        // Step 3: Check if the original string is equal to the reversed string
     return numberStr == reversedStr;
-    // if(temp==rev)
-    //     return true;
-    // else
-    //     return false; 
+
 
     }
 };
