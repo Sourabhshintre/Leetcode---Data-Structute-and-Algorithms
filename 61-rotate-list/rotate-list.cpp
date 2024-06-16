@@ -28,11 +28,15 @@ public:
         temp->next = head;
         k = k % length; //where k is greater than the length of list
         int end = length - k;
-        while(end--)
-        {
-            temp = temp->next;
-        }
+        // while(end--)
+        // {
+        //     temp = temp->next;
+        // }
         
+        for(int i=0;i<end;i++)
+        {
+            temp=temp->next;
+        }
         head = temp->next;
         temp->next = NULL;
 
