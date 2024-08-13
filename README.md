@@ -10,6 +10,7 @@ Collection of LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
@@ -19,4 +20,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
