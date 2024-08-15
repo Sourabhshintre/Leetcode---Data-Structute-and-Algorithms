@@ -34,4 +34,12 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0890-lemonade-change) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
