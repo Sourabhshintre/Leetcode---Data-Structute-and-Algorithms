@@ -21,6 +21,7 @@ Collection of LeetCode questions.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
@@ -36,6 +37,7 @@ Collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
@@ -61,4 +63,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
