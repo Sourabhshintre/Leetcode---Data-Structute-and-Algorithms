@@ -15,6 +15,7 @@ Collection of LeetCode questions.
 | [0624-maximum-distance-in-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0890-lemonade-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -56,4 +57,8 @@ Collection of LeetCode questions.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
