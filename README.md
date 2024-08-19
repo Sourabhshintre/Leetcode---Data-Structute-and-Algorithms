@@ -8,6 +8,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0007-reverse-integer](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0650-2-keys-keyboard) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Sliding Window
 |  |
