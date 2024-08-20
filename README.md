@@ -80,4 +80,5 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
