@@ -76,4 +76,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
