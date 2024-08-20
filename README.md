@@ -83,4 +83,5 @@ Collection of LeetCode questions.
 | [0184-department-highest-salary](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0184-department-highest-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1174-sales-analysis-iii) |
+| [1301-reformat-department-table](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1301-reformat-department-table) |
 <!---LeetCode Topics End-->
