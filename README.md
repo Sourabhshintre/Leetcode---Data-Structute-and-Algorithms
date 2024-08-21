@@ -14,6 +14,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0890-lemonade-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
@@ -85,4 +87,12 @@ Collection of LeetCode questions.
 | [1174-sales-analysis-iii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1174-sales-analysis-iii) |
 | [1301-reformat-department-table](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1301-reformat-department-table) |
 | [1734-bank-account-summary-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1734-bank-account-summary-ii) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
