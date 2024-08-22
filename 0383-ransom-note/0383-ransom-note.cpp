@@ -7,13 +7,21 @@ public:
      for(char c:magazine)
      {
         count[c]++;
-     }   
+     }
+    
+    //  for (const auto& pair : count) {
+    //         std::cout << pair.first << ": " << pair.second << std::endl;
+    //     }
 
      for(char c: ransomNote)
      {
         if(count[c]>0)
         {
             count[c]--;
+            // cout<<"...";
+            // for (const auto& pair : count) {
+            // std::cout << pair.first << ": " << pair.second << std::endl;
+            // }
         }
         else
         {
