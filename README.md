@@ -95,4 +95,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
