@@ -46,6 +46,7 @@ Collection of LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
@@ -67,11 +68,13 @@ Collection of LeetCode questions.
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Sliding Window
