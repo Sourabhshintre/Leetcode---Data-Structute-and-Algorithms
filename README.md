@@ -16,6 +16,7 @@ Collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0290-word-pattern) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
