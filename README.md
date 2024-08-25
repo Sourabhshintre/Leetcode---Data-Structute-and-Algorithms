@@ -25,6 +25,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
