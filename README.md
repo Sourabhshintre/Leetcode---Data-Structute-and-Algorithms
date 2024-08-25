@@ -94,6 +94,7 @@ Collection of LeetCode questions.
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -107,4 +108,16 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0383-ransom-note) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
