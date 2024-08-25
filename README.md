@@ -7,6 +7,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0650-2-keys-keyboard) |
 ## Array
@@ -29,6 +30,7 @@ Collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0290-word-pattern) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
