@@ -16,6 +16,7 @@ Collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
