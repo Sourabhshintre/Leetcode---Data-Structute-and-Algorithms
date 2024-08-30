@@ -108,6 +108,7 @@ Collection of LeetCode questions.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0184-department-highest-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
