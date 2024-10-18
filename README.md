@@ -26,6 +26,7 @@ Collection of LeetCode questions.
 | [0890-lemonade-change](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0890-lemonade-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -57,6 +58,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0476-number-complement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -168,4 +171,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
