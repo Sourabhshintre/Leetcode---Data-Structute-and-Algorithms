@@ -70,6 +70,7 @@ Collection of LeetCode questions.
 | [0290-word-pattern](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
@@ -169,6 +170,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0731-my-calendar-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Ordered Set
 |  |
