@@ -27,6 +27,7 @@ Collection of LeetCode questions.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -69,6 +70,7 @@ Collection of LeetCode questions.
 | [0290-word-pattern](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0392-is-subsequence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
@@ -167,6 +169,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0731-my-calendar-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Ordered Set
 |  |
 | ------- |
