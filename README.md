@@ -154,6 +154,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,4 +181,12 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sourabhshintre/Leetcode---Data-Structute-and-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
